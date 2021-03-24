@@ -1,4 +1,3 @@
-
 //Program to implement linkedlist in C++
 #include <bits/stdc++.h>
 using namespace std;
