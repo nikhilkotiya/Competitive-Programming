@@ -12,7 +12,6 @@ bool areRotations(string str1, string str2)
    string temp = str1; 
   return (temp.find(str2) != string::npos);
 }
-  
 /* Driver program to test areRotations */
 int main()
 {
